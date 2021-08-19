@@ -1,1 +1,321 @@
+<!DOCTYPE HTML>
+<!--
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>CMDA 2005 CRN: 21106</title>
+	<meta name="keywords" content="Meimei Liu, CMDA 2005, Statistics, VT">
+	<meta name="description" content="Course Webpage">
+	<meta name="author" content="Meimei Liu">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+	</head>
+
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">Introduction</a></li>
+
+							<li><a href="#second">Schedule</a></li>
+<!-- 							<li><a href="#cta">Get Started</a></li> -->
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+
+						<!-- Introduction -->
+
+							<section id="intro" class="main special">
+								<header class="major">
+									<h2>CMDA 2005 CRN: 21106</h2>
+								</header>
+                <header class="major">
+                  <h3>Information</h3>
+                </header>
+<p align="justify"><strong>Topic:</strong> Integrated Quantitative Science <br></p>
+<p align="justify"><strong>Lecture:</strong> Online Synchronous (TTh 2:00PM-3:15PM)<br></p>
+<p align="justify"><strong>Instructor</strong>: Meimei Liu, Email: <a href="mailto:meimeiliu@vt.edu" style="color:blue">meimeiliu AT vt.edu</a><br></p> 
+<p align="justify"><strong>TA</strong>: Yixin Chen, Email: <a href="mailto:yixinc@vt.edu" style="color:blue">yixinc AT vt.edu</a>
+<p align="justify"><strong>TA office hours:</strong> (zoom link)<br>
+<p align="justify"><strong>
+<p align="justify"><strong>Office hours:</strong>: Thursday 9:00AM-11:00AM (<a href='https://virginiatech.zoom.us/j/4909208678'>zoom link</a>)<br></p>
+
+<p align="justify"><strong>Piazza:</strong>: <a href="piazza.com/vt/spring2021/cmda_2005_21106_202101" style="color:blue">Please click this sign up link </a> <br></p>
+
+<br>
+
+							</section>
+
+						<!-- First Section -->
+
+						<!-- Second Section -->
+							<section id="second" class="main special">
+								<header class="major">
+									<h3>Schedule</h3>
+								</header>
+								
+
+<table align="center">
+  <tr>
+    <th>Time</th>
+    <th>Topics</th>
+    <th>Lectures</th>
+    <th>Homework</th>
+  </tr>
+  <tr>
+
+    <th>01/19 </th>
+    <th>Introduction, Chapter 1 </th>
+    <th><a href="https://canvas.vt.edu/files/16856498/"style="color:blue"> Introduction </a> <br> 
+   <a href="https://canvas.vt.edu/files/16856499/"style="color:blue">Lecture 1 </a><br></th>
+   <th></th>
+  </tr>
+    <tr>
+
+ <th>01/21 </th>
+    <th> Chapter 1 <a href="https://canvas.vt.edu/courses/124992/external_tools/4371"style="color:blue">Video </a><br> </th>
+    <th>  <a href="https://canvas.vt.edu/files/16887039/"style="color:blue">Lecture 2 </a><br>  </th>
+   <th> <a href="https://canvas.vt.edu/files/16887044/"style="color:blue">Homework 1 </a><br></th>
+  </tr>
+    <tr>
+
+ <th>01/26 </th>
+    <th> Chapter 1, R Tutorial <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
+    <th><a href="https://canvas.vt.edu/files/16953383/"style="color:blue"> Lecture 3_part 1 </a> <br> 
+   <a href="https://canvas.vt.edu/files/16953385/"style="color:blue">R examples </a><br></th>
+   <th></th>
+  </tr>
+    <tr>
+
+
+ <th>01/28-02/02 </th>
+    <th> R Tutorial  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
+    <th><a href="https://canvas.vt.edu/files/16984839/"style="color:blue">Lecture 3_part 2 </a> <br>
+	    <a href="https://canvas.vt.edu/files/16984841/"style="color:blue"> Normtemp dataset </a> <br>
+	    <a href="https://canvas.vt.edu/files/16984857/"style="color:blue"> R introduction </a> <br>
+	     <a href="https://canvas.vt.edu/files/16984847/"style="color:blue"> R tutorial </a> <br>
+	    
+	    </th>
+   <th></th>
+  </tr>
+    <tr>
+
+ <th>02/04 </th>
+    <th> R Tutorial  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">RMarkdown </a><br></th>
+    <th>Lecture 3_part 2</th>
+   <th> <a href="https://canvas.vt.edu/files/17089632/"style="color:blue">Homework 2 (pdf version) </a><br>
+	 <a href="https://canvas.vt.edu/files/17089634/"style="color:blue">Homework 2 (Rmd version) </a><br>  
+	  <a href="https://canvas.vt.edu/files/17089638/"style="color:blue">cars.csv </a><br> 
+	    <a href="https://canvas.vt.edu/files/17089640/"style="color:blue">ice_cream.csv </a><br> 
+	    </th>
+  </tr>
+    <tr>
+
+   <th>02/09 </th>
+    <th> Probability (Chapter 2) <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/17192157/"style="color:blue">Lecture 4 </a><br></th>
+   <th></th>
+  </tr>
+    <tr>
+
+ <th>02/11 </th>
+    <th> Probability (Chapter 2)<a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
+    <th><a href="https://canvas.vt.edu/files/17230834/"style="color:blue">Lecture 5 </a><br></th>
+   <th></th>
+  </tr>
+    <tr>
+
+<th>02/16 </th>
+    <th> Probability (Chapter 2) <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/17322814/"style="color:blue">Lecture 6 </a><br></th>
+   <th><a href="https://canvas.vt.edu/files/17317777/"style="color:blue">Homework 3 </a><br></th>
+  </tr>
+    <tr>
+
+<th>02/18 </th>
+    <th> Class canceled </th>
+    <th></th>
+   <th></th>
+  </tr>
+    <tr>
+
+   <th>02/23 </th>
+    <th> Probability (Chapter 2) <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/17459806/"style="color:blue">Lecture 7 </a><br></th>
+   <th><a href="https://canvas.vt.edu/files/17495336/"style="color:blue">Homework 4 </a><br></th>
+  </tr>
+    <tr> 
+
+  <th>02/25 </th>
+    <th> Spring Break </th>
+    <th></th>
+   <th></th>
+  </tr>
+    <tr> 
+
+ <th>03/02-03/09 </th>
+    <th> Commonly Used Discrete Random Variables  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/17459806/"style="color:blue">Lecture 7 </a><br>
+	    <a href="https://canvas.vt.edu/files/17713521/"style="color:blue">Lecture 8 </a><br></th>	  
+   <th></th>
+  </tr>
+    <tr> 
+
+	      	 <th>03/11</th>
+    <th> Commonly Used Continuous Random Variables <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th> <a href="https://canvas.vt.edu/files/17755671/"style="color:blue">Lecture 9 </a><br></th>
+   <th><a href="https://canvas.vt.edu/files/17710062/"style="color:blue">Homework 5 </a><br></th>
+  </tr>
+    <tr> 
+	   
+	      	 <th>03/16</th>
+    <th> Continuous Random Variables, R  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th> <a href="https://canvas.vt.edu/files/17843070/"style="color:blue">Updated Lecture 9 </a><br>
+<a href="https://canvas.vt.edu/files/17842018/"style="color:blue">R: Probability </a><br>
+	    </th>
+   <th><a href="https://canvas.vt.edu/files/17841744/"style="color:blue">Homework 6  </a><br>
+	    </th>
+  </tr>
+    <tr>  
+	    
+
+    	   	 <th>03/18-03/23 </th>
+    <th> Joint distribution of Random Variables   <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th> <a href="https://canvas.vt.edu/files/17843549/"style="color:blue"> Lecture 10 </a><br>
+	    <a href="https://canvas.vt.edu/files/17870915/"style="color:blue">Dataset:BodyT </a><br>
+	    </th>
+   <th><a href="https://canvas.vt.edu/files/1160127"style="color:blue">Homework 7  </a><br>
+	    </th>
+  </tr>
+    <tr> 
+	   <th>03/25</th>
+    <th> Mid-term Exam I </th>
+    <th></th>
+   <th></th>
+  </tr>
+    <tr>   
+
+      <th>03/30 </th>
+    <th> Estimation  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
+    <th> <a href="https://canvas.vt.edu/files/18079901/"style="color:blue"> Lecture 11 </a><br>
+	    </th>
+   <th></th>
+  </tr>
+    <tr> 	
+
+ 	    <th>04/01 </th>
+    <th> Sampling Distribution, Central Limit Theorem <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
+    <th><a href="https://canvas.vt.edu/files/18122408/"style="color:blue"> Lecture 12</a><br>
+	    </th>
+   <th></th>
+  </tr>
+    <tr> 
+
+    <th>04/06 </th>
+    <th> Spring Break </th>
+    <th></th>
+   <th></th>
+  </tr>
+    <tr>
+
+    <th>04/08 -04/13</th>
+    <th> Confidence Interval <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/18176186/"style="color:blue"> Lecture 13</a><br>
+	    </th>
+   <th><a href="https://canvas.vt.edu/files/18200730/"style="color:blue">Homework 8  </a><br> </th>
+  </tr>
+    <tr>
+
+    <th>04/15-20</th>
+    <th> Hypothesis Testing <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/18340805/"style="color:blue"> Lecture 13_part II</a><br>
+	    <a href="https://canvas.vt.edu/files/18340807/"style="color:blue"> Lecture 14</a><br>
+	    </th>
+   <th><a href="https://canvas.vt.edu/files/18374588/"style="color:blue"> Homework 9</a><br>
+	    </th>
+  </tr>
+    <tr>
+
+    <th>04/22 </th>
+    <th> Hypothesis Testing <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/18461154/"style="color:blue"> Lecture 15</a><br>
+	    </th>
+   <th></th>
+  </tr>
+    <tr>
+
+     <th>04/27 </th>
+    <th> Hypothesis Testing<a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/18528815/"style="color:blue"> Lecture 16</a><br>
+	    </th>
+   <th><a href="https://canvas.vt.edu/files/18528849/"style="color:blue"> Homework 10</a><br> 
+	    </th>
+  </tr>
+    <tr>
+
+    	  <th>04/29 </th>
+    <th> Mid-term Exam 2 </th>
+    <th></th>
+   <th></th>
+  </tr>
+    <tr>
+
+    	 	  <th>05/04 </th>
+    <th>  Review <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
+    <th><a href="https://canvas.vt.edu/files/18669818/"style="color:blue"> Review </a><br>
+	    </th>
+   <th></th>
+  </tr>
+    <tr>
+	    
+
+
+    	   	 	  <th>05/12 </th>
+    <th> Final Exam 10:05 am - 12:05 pm </th>
+    <th>Good Luck! </th>
+   <th></th>
+  </tr>
+    <tr>
+
+
+</table>
+
+
+							</section>
+
+
+
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+
+
+
+
+					</div>				<!-- Main -->
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
 
