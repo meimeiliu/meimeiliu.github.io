@@ -77,15 +77,20 @@
     <th>08/23-08/27 </th>
     <th>Introduction, Chapter 1 </th>
     <th> Introduction </a> <br> 
-  Lecture 1 </a><br></th>
-   <th></th>
+    <a href="https://canvas.vt.edu/files/19385753/"style="color:blue">Lecture 1 </a><br> 
+<a href="https://canvas.vt.edu/files/19385754/"style="color:blue">Lecture 2 </a><br> 
+<a href="https://canvas.vt.edu/files/19385755/"style="color:blue">Lecture 3 </a><br>
+  </th>
+    <th> Homework 1 </th>
   </tr>
     <tr>
+    
+  
 
  <th>08/30-09/03 </th>
-    <th> Chapter 1 <a href="https://canvas.vt.edu/courses/124992/external_tools/4371"style="color:blue">Video </a><br> </th>
-    <th>  <a href="https://canvas.vt.edu/files/16887039/"style="color:blue">Lecture 2 </a><br>  </th>
-   <th> <a href="https://canvas.vt.edu/files/16887044/"style="color:blue">Homework 1 </a><br></th>
+    <th> Introduction of R</th>
+    <th>  </th>
+   <th> </th>
   </tr>
     <tr>
 
@@ -97,40 +102,32 @@
     <tr>
 
  <th>09/08-09/10 </th>
-    <th> Chapter 1, R Tutorial <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
-    <th><a href="https://canvas.vt.edu/files/16953383/"style="color:blue"> Lecture 3_part 1 </a> <br> 
-   <a href="https://canvas.vt.edu/files/16953385/"style="color:blue">R examples </a><br></th>
+    <th> Regression </th>
+    <th></th>
    <th></th>
   </tr>
     <tr>
 
 
  <th>09/13-09/17 </th>
-    <th> R Tutorial  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
-    <th><a href="https://canvas.vt.edu/files/16984839/"style="color:blue">Lecture 3_part 2 </a> <br>
-	    <a href="https://canvas.vt.edu/files/16984841/"style="color:blue"> Normtemp dataset </a> <br>
-	    <a href="https://canvas.vt.edu/files/16984857/"style="color:blue"> R introduction </a> <br>
-	     <a href="https://canvas.vt.edu/files/16984847/"style="color:blue"> R tutorial </a> <br>
-	    
+    <th>  </th>
+    <th>Sampling and observations  
 	    </th>
    <th></th>
   </tr>
     <tr>
 
  <th>09/20-09/24 </th>
-    <th> R Tutorial  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">RMarkdown </a><br></th>
-    <th>Lecture 3_part 2</th>
-   <th> <a href="https://canvas.vt.edu/files/17089632/"style="color:blue">Homework 2 (pdf version) </a><br>
-	 <a href="https://canvas.vt.edu/files/17089634/"style="color:blue">Homework 2 (Rmd version) </a><br>  
-	  <a href="https://canvas.vt.edu/files/17089638/"style="color:blue">cars.csv </a><br> 
-	    <a href="https://canvas.vt.edu/files/17089640/"style="color:blue">ice_cream.csv </a><br> 
+    <th> </th>
+    <th></th>
+   <th> Normal Distribution 
 	    </th>
   </tr>
     <tr>
 
    <th>09/27-09/29 </th>
-    <th> Probability (Chapter 2) <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
-    <th><a href="https://canvas.vt.edu/files/17192157/"style="color:blue">Lecture 4 </a><br></th>
+    <th> Discrete Probability</th>
+    <th></th>
    <th></th>
   </tr>
     <tr>
@@ -144,8 +141,8 @@
 
 
  <th>10/04-10/06</th>
-    <th> Probability (Chapter 2)<a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br> </th>
-    <th><a href="https://canvas.vt.edu/files/17230834/"style="color:blue">Lecture 5 </a><br></th>
+    <th> Probability </th>
+    <th></th>
    <th></th>
   </tr>
     <tr>
@@ -158,9 +155,9 @@
     <tr>
 
 <th>10/11-10/15 </th>
-    <th> Probability (Chapter 2) <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
-    <th><a href="https://canvas.vt.edu/files/17322814/"style="color:blue">Lecture 6 </a><br></th>
-   <th><a href="https://canvas.vt.edu/files/17317777/"style="color:blue">Homework 3 </a><br></th>
+    <th> Inference</th>
+    <th></th>
+   <th></th>
   </tr>
     <tr>
 
@@ -172,9 +169,9 @@
     <tr>
 
    <th>10/25-10/29 </th>
-    <th> Probability (Chapter 2) <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
-    <th><a href="https://canvas.vt.edu/files/17459806/"style="color:blue">Lecture 7 </a><br></th>
-   <th><a href="https://canvas.vt.edu/files/17495336/"style="color:blue">Homework 4 </a><br></th>
+    <th> Inference </th>
+    <th></th>
+   <th></th>
   </tr>
     <tr> 
 
@@ -186,9 +183,8 @@
     <tr> 
 
  <th>11/08-11/10 </th>
-    <th> Commonly Used Discrete Random Variables  <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
-    <th><a href="https://canvas.vt.edu/files/17459806/"style="color:blue">Lecture 7 </a><br>
-	    <a href="https://canvas.vt.edu/files/17713521/"style="color:blue">Lecture 8 </a><br></th>	  
+    <th> Inference</th>
+    <th></th>	  
    <th></th>
   </tr>
     <tr> 
@@ -202,9 +198,9 @@
     
 
 	      	 <th>11/15-11/19</th>
-    <th> Commonly Used Continuous Random Variables <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
-    <th> <a href="https://canvas.vt.edu/files/17755671/"style="color:blue">Lecture 9 </a><br></th>
-   <th><a href="https://canvas.vt.edu/files/17710062/"style="color:blue">Homework 5 </a><br></th>
+    <th>Inference</th>
+    <th> </th>
+   <th></th>
   </tr>
     <tr> 
 	   
@@ -219,11 +215,10 @@
 	    
 
     	   	 <th>11/29-12/03 </th>
-    <th> Joint distribution of Random Variables   <a href="https://canvas.vt.edu/courses/124992/external_tools/4371 "style="color:blue">Video </a><br></th>
-    <th> <a href="https://canvas.vt.edu/files/17843549/"style="color:blue"> Lecture 10 </a><br>
-	    <a href="https://canvas.vt.edu/files/17870915/"style="color:blue">Dataset:BodyT </a><br>
+    <th> Inference</th>
+    <th> 
 	    </th>
-   <th><a href="https://canvas.vt.edu/files/1160127"style="color:blue">Homework 7  </a><br>
+   <th>
 	    </th>
   </tr>
     <tr> 
